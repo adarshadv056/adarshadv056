@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adarshadv056
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React.js.
-- 💞️ I’m looking to collaborate on any frontent project.
+- 💞️ I’m looking to collaborate on any Web dev project.
 - 📫 How to reach me - insta:- @adarsh_adv056
 
 <!---
