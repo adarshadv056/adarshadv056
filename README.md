@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @adarshadv056
+- 🎓 Currently pursuing BS in Data Science (Diploma Level) from IIT Madras
 - 👀 I’m interested in Web Development.
 - 💞️ I’m looking to collaborate on any Web dev project.
 - 📫 How to reach me - insta:- @adarsh_adv056
