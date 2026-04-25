@@ -31,6 +31,6 @@ I am a **Data Science and Applications student at IIT Madras** with a strong fou
 
 ### 📬 Connect with Me
 *   **Email**: adarshadv057@gmail.com 
-*   **Professional Links**: [LinkedIn](https://www.linkedin.com/in/adarshadv056) | [Portfolio](https://www.adarshvishwakarma.vercel.app) 
+*   **Professional Links**: [LinkedIn](https://www.linkedin.com/in/adarshadv056) | [Portfolio](https://adarsh-vishwakarma.vercel.app/) 
 
 *Interests: Building SaaS products, scalable web applications, and exploring entrepreneurship .*
