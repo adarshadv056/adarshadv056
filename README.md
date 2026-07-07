@@ -17,12 +17,15 @@ I am a **Data Science and Applications student at IIT Madras** with a strong fou
 * **AI & Data Science**: Scikit-learn, Pandas, NumPy, NLTK, Gensim, Sentence Transformers
 * **Databases & Tools**: PostgreSQL, SQLite, Redis, Celery, Git, GitHub
 
-### 🚀 Projects
-* **AI Resume Matcher**: Engineered a full-stack platform using Next.js, Tailwind CSS, and Flask. Designed a hybrid NLP scoring algorithm calculating semantic similarity via Gensim's GloVe and Scikit-Learn's TF-IDF.
-* **Docuzy (In Progress)**: A document automation platform focused on structured data extraction and SaaS-style architecture.
-* **Vehicle Parking Management System**: Built a Flask-powered platform with real-time spot tracking, role-based dashboards, and a scalable PostgreSQL database schema. Integrated Redis and Celery for background jobs and asynchronous task processing.
-* **AI Powered Chatbot (IIT Madras BS Data)**: Developed a RAG chatbot using a local Ollama LLM (Gemma:2b) and Flask. Engineered a semantic search pipeline utilizing FAISS and Sentence Transformers for accurate, context-grounded responses.
-* **Quiz Master Application**: An interactive quiz platform developed with Flask and SQLite, featuring user authentication and attempt tracking.
+## 🚀 Projects
+
+* **AI Resume Matcher**: Built a full-stack NLP application using Next.js and Flask that matches resumes to job descriptions using a hybrid semantic similarity approach with TF-IDF, GloVe embeddings, and automated skill extraction.
+* **Retail Sales & Inventory Analytics (IIT Madras Capstone)**: Analyzed one year of retail sales data using Python, SQL, and Power BI to perform EDA, demand forecasting, inventory analysis, and build interactive business dashboards.
+* **Comment Classification using NLP & Machine Learning**: Developed an end-to-end multiclass text classification pipeline on 198K+ comments, achieving a **Macro F1 score of 0.8055** using an optimized LightGBM model.
+* **Docuzy (In Progress)**: Developing an AI-powered document management platform with document parsing, structured data extraction, semantic search, and SaaS-based architecture.
+* **Vehicle Parking Management System**: Built a Flask-based parking management platform with role-based dashboards, Redis caching, Celery background jobs, and REST APIs for real-time parking operations.
+* **AI Powered Chatbot (IIT Madras BS Data)**: Developed a RAG chatbot using Flask, Ollama (Gemma 2B), FAISS, and Sentence Transformers for context-aware document question answering.
+* **Quiz Master Application**: Built a Flask and SQLite quiz platform featuring authentication, quiz management, scoring, and attempt tracking.
 
 ### 📜 Certifications (IIT Madras)
 * **Advance Certificate in Machine Learning and Data Science**
